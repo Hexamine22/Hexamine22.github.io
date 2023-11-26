@@ -16,7 +16,7 @@ timezone:
 
 title: Hexamine22 # the main title
 
-tagline: I play ctfs sometimes  # it will display as the sub-title
+tagline: I play ctfs sometimes.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blogs on malware analysis and binary exploitation.
